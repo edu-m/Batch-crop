@@ -1,2 +1,3 @@
 # Batch-crop
-Rename, Crop and Save images
+
+Shell+Python scripts that takes specific images, renames then and crops them
